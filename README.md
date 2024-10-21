@@ -1,6 +1,8 @@
 # Un contador de tiempo hecho en fastapi
 ![image](https://github.com/user-attachments/assets/14d4bc6c-2518-4cfe-b4b9-e1d9f83c1ae3)
 
+[versión online](https://fastapicountdown-74329957c2da.herokuapp.com)
+
 ## Instalación de proyecto (probado en fedora 40 workstation edition)
 ### Instalar miniconda
 ```
